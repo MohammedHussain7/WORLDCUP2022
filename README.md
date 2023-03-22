@@ -1,7 +1,7 @@
 # Worldcup-live-scores
 
 ## This is a college project that's about a livescores web app for the World Cup FIFA Qatar 2022. The app is built using ReactJS.
-### Teammates: Mohammed Alramis, Mohammed Althunayan, Hassan Hamaqi and Mohammed Alsihati
+### Teammates: Mohammed Alramis, Mohammed Althunayan, Hassan Hamaqi and Mustafa Alsadah
 ##
 ### 1. Browsing the matches schedule
 ![mobile](https://user-images.githubusercontent.com/66411754/218505090-12a979a5-7e00-44d7-8ce1-e209b72a66ba.png)
